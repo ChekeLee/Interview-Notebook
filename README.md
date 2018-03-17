@@ -73,7 +73,7 @@
 
 ## Java :coffee:
 
-> [JVM](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/JVM.md)
+> [JVM](https://github.com/Nabryant/Interview-Notebook/blob/master/notes/JVM.md)
 
 整理自《深入理解 Java 虚拟机》，主要整理了内存模型、垃圾回收以及类加载机制。
 
