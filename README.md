@@ -133,7 +133,7 @@ Google 开源项目的代码风格规范。
 
 ## 资料下载 :arrow_down:
 
-> [Download](https://github.com/CyC2018/Interview-Notebook/blob/master/other/download.md)
+> [Download](https://github.com/Nabryant/Interview-Notebook/blob/master/other/download.md)
 
 一些 PDF 书籍
 
